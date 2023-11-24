@@ -1,0 +1,2 @@
+# sekatam
+Chess bot
